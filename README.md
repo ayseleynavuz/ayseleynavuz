@@ -1,6 +1,6 @@
 
   <h1 align="center">Hi 👋, I'm Ayşe Aleyna Yavuz</h1>
-<h3 align="center">Software Developer From Turkey | Medium Content Creator</h3>
+<h3 align="center">Software Engineer From Turkey | Medium Content Creator</h3>
 
 - 🌱 I’m currently learning **node.js , react , Smart Contracts, Blockchain Technology**
 
