@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Ayşe Aleyna Yavuz</h1>
 <h3 align="center">Software Engineer From Turkey | Medium Content Creator</h3>
 
-- 🌱 I’m currently learning ** Flutter, Dart <3**
+- 🌱 I’m currently learning Flutter
 
 - 📝 I regularly write articles on [https://medium.com/@ayseleynavuz](https://medium.com/@ayseleynavuz)
 
